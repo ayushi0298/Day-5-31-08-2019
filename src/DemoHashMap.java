@@ -17,7 +17,7 @@ public class DemoHashMap {
 		hash.put(e1,p1);
 		hash.put(e2,p2);
 		hash.put(e3,p3);
-		hash.put(e4,p4);
+		hash.put(e4,p4);// same keys
 		
 		System.out.println(hash);
 	}

@@ -3,7 +3,7 @@ public class Project1 {
 	private String ptitle;
 	private int duration;
 	private String cname;
-
+	// project details
 	public int getPcode() {
 		return pcode;
 	}

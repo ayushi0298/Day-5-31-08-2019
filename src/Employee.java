@@ -3,6 +3,7 @@ public class Employee {
 	private String ename;
 	private int sal;
 	private String desg;
+	// employee
 	@Override
 	public int hashCode() {
 		final int prime = 31;
